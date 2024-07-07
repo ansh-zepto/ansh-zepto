@@ -16,25 +16,6 @@
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=ansh-chaturmohta&style=flat-square&color=blue" alt=""/> -->
 
-<h1> hey there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h1>
-
-</div>
- 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="70%" height="40%"/>
-</div> -->
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width="30%" height="20%"/>
-</div>
-
-### My Portfolio
-
-Check out my portfolio, and find out more about me ,my projects, work experience and much more <a href="https://ansh-chaturmohta.github.io/mine">here</a>
-
 ---
 
 
