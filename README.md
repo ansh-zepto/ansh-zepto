@@ -44,6 +44,8 @@ Check out my portfolio, and find out more about me ,my projects, work experience
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-zepto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ansh-zepto&show_icons=true&theme=gotham" alt="ansh-zepto" />
+
 
 #### Joke of the day for my fellow programmers
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
